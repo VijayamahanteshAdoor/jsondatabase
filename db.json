@@ -8,7 +8,8 @@
     { "id": 1, "body": "some comment", "postId": 1 }
     { "id": 2, "body": "some comment test 2", "postId": 2 }
   ],
-  "profile": { "name": "typicode" }
-  "profile": { "name": "Vijaymahantesh" }
-  "profile": { "name": "Suresh" }
+  "profile":[ 
+    { "name": "typicode" }
+    { "name": "Vijay" }
+ ]
 }
