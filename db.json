@@ -1,9 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "title": "json", "author": "Vijay" }
+    { "id": 2, "title": "json-testr", "author": "Rama" }
+    { "id": 3, "title": "json-server", "author": "mantu" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "some comment test 2", "postId": 2 }
   ],
   "profile": { "name": "typicode" }
+  "profile": { "name": "Vijaymahantesh" }
+  "profile": { "name": "Suresh" }
 }
